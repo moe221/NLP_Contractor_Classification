@@ -1,0 +1,720 @@
+,Date,invoice_Nr.,work_description,building,total_cost,reimbursement_rqst,reimbursement_amount,proof_type,total_manhours,contractor_type
+1,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,Roofer,121.8,timesheet,21.0,Painter/Plasterer
+2,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,Facade/Glass builder,121.8,timesheet,21.0,Painter/Plasterer
+3,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,Water/Plumbing fitter,121.8,timesheet,21.0,Painter/Plasterer
+4,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,Shell/Core company,121.8,timesheet,21.0,Painter/Plasterer
+5,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,building1,1096.2,Electrician,121.8,timesheet,21.0,Painter/Plasterer
+6,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,building1,1096.2,Metal fabricator,121.8,timesheet,21.0,Painter/Plasterer
+7,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,Interior outfitter,121.8,timesheet,21.0,Painter/Plasterer
+8,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,TBE,121.8,timesheet,21.0,Painter/Plasterer
+9,2017-04-18 00:00:00,2298,Attika: Nachgedämmte Flächen mit Armierung eingespachtelt,,1096.2,Painter/Plasterer,121.8,timesheet,21.0,Painter/Plasterer
+10,2017-12-04 00:00:00,6508,Attika: Durch Fremdgewerke verursachte Schäden in der Dämmung sauber ausgeschnitten und neugedämmt,,1096.2,Water/Plumbing fitter,365.4,timesheet,21.0,Painter/Plasterer
+11,2017-12-04 00:00:00,6508,Attika: Durch Fremdgewerke verursachte Schäden in der Dämmung sauber ausgeschnitten und neugedämmt,building1,1096.2,Electrician,365.4,timesheet,21.0,Painter/Plasterer
+12,2017-12-04 00:00:00,6508,Attika: Durch Fremdgewerke verursachte Schäden in der Dämmung sauber ausgeschnitten und neugedämmt,,1096.2,TBE,365.4,timesheet,21.0,Painter/Plasterer
+13,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Metal fabricator,9.67,timesheet,2.0,Painter/Plasterer
+14,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Water/Plumbing fitter,9.67,timesheet,2.0,Painter/Plasterer
+15,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Electrician,9.67,timesheet,2.0,Painter/Plasterer
+16,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Shell/Core company,9.67,timesheet,2.0,Painter/Plasterer
+17,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Interior outfitter,9.67,timesheet,2.0,Painter/Plasterer
+18,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,TBE,9.67,timesheet,2.0,Painter/Plasterer
+19,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Painter/Plasterer,9.67,timesheet,2.0,Painter/Plasterer
+20,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Facade/Glass builder,9.67,timesheet,2.0,Painter/Plasterer
+21,,4029,Aufräumen durch Fremdgewerke verursachte Verschmutzung,,87.0,Roofer,9.67,timesheet,2.0,Painter/Plasterer
+22,,4029,"Beschädigungen durch den Dachdecker behoben 
+WDVS Müllhpf",building2,87.0,Roofer,87.0,timesheet,2.0,Painter/Plasterer
+23,2017-12-12 00:00:00,5022,Schlitze TB Wände,building1,234.9,Electrician,234.9,timesheet,4.5,Painter/Plasterer
+24,2017-12-11 00:00:00,6606,Einzugsschäden Suhrkamp,building1,52.2,Tenant,52.2,timesheet,1.0,Painter/Plasterer
+25,2017-12-11 00:00:00,3701,Einzugsschäden Suhrkamp,building1,130.5,Tenant,130.5,timesheet,2.5,Painter/Plasterer
+26,2017-12-11 00:00:00,8446,Wasserschaden ,building1,26.1,Insurance,0.0,timesheet,0.5,Painter/Plasterer
+27,2017-11-12 00:00:00,4960,Schäden Fremdgewerke ,building1,391.5,Electrician,130.5,timesheet,7.5,Painter/Plasterer
+28,2017-11-12 00:00:00,4960,Schäden Fremdgewerke ,building1,391.5,Water/Plumbing fitter,130.5,timesheet,7.5,Painter/Plasterer
+29,2017-11-12 00:00:00,4960,Schäden Fremdgewerke ,building1,391.5,TBE,130.5,timesheet,7.5,Painter/Plasterer
+30,2017-12-11 00:00:00,6885,Einzugsschäden Suhrkamp,building1,339.3,Tenant,339.3,timesheet,6.5,Painter/Plasterer
+31,2018-11-12 00:00:00,2943,Einzugsschäden Suhrkamp,building1,339.3,Tenant,339.3,timesheet,6.5,Painter/Plasterer
+32,2017-11-12 00:00:00,3362,Einzugsschäden Suhrkamp,building1,313.2,Tenant,313.2,timesheet,6.0,Painter/Plasterer
+33,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,TBE,129.05,timesheet,22.25,Painter/Plasterer
+34,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Painter/Plasterer,129.05,timesheet,22.25,Painter/Plasterer
+35,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Metal fabricator,129.05,timesheet,22.25,Painter/Plasterer
+36,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Roofer,129.05,timesheet,22.25,Painter/Plasterer
+37,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Facade/Glass builder,129.05,timesheet,22.25,Painter/Plasterer
+38,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Electrician,129.05,timesheet,22.25,Painter/Plasterer
+39,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Interior outfitter,129.05,timesheet,22.25,Painter/Plasterer
+40,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Water/Plumbing fitter,129.05,timesheet,22.25,Painter/Plasterer
+41,,8787,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1161.45,Shell/Core company,129.05,timesheet,22.25,Painter/Plasterer
+42,,6554,BT1+ BT2 Attika nachputzen,building2,168.78,TBE,56.26,timesheet,3.88,Painter/Plasterer
+43,,6554,BT1+ BT2 Attika nachputzen,building2,181.877328,Electrician,56.26,timesheet,3.88,Painter/Plasterer
+44,,6554,BT1+ BT2 Attika nachputzen,building2,181.877328,Water/Plumbing fitter,56.26,timesheet,3.88,Painter/Plasterer
+45,,6554,BT1+ BT2 Attika nachputzen,building1,162.92664000000005,Water/Plumbing fitter,54.31,timesheet,6.12,Painter/Plasterer
+46,,6554,BT1+ BT2 Attika nachputzen,building1,162.92664000000005,Electrician,54.31,timesheet,6.12,Painter/Plasterer
+47,,6554,BT1+ BT2 Attika nachputzen,building1,162.92664000000005,TBE,54.31,timesheet,6.12,Painter/Plasterer
+48,2017-07-26 00:00:00,3930,"Nachbargebäude im bereich der Ablaufrinne losen Putz entfernen, in Teilbereichen neu verputzen und grundieren.
+Abklebearbeiten
+inkl. Der Erschweniszulage für Materialbereitstellung und Transport. Nordseite und Südseite BG2",building2,1148.4,Not_clear,,timesheet,22.0,Painter/Plasterer
+49,2017-07-26 00:00:00,3930,"Nachbargebäude im bereich der Ablaufrinne losen Putz entfernen, in Teilbereichen neu verputzen und grundieren.
+Abklebearbeiten
+inkl. Der Erschweniszulage für Materialbereitstellung und Transport. Nordseite WG",building3,522.0,Not_clear,,timesheet,10.0,Painter/Plasterer
+50,2017-10-23 00:00:00,4840,"1.OG Bad : Musterflächen erstellt. 80% der Wandflächen 
+",building3,50.025,Building-owner,0.0,timesheet,1.0,Painter/Plasterer
+51,2017-08-10 00:00:00,7624,Besprechungsraum EG Deckenlampen mit Klebebänden für das grundieren abgeklebt und wieder entfernt,building1,174.0,Not_clear,,timesheet,4.0,Painter/Plasterer
+52,,3354,"Revis nachträglich grundiert, gestrichten, abgeklebt",building1,261.0,TBE,261.0,timesheet,5.0,Painter/Plasterer
+53,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Water/Plumbing fitter,176.9,timesheet,30.5,Painter/Plasterer
+54,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Facade/Glass builder,176.9,timesheet,30.5,Painter/Plasterer
+55,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Shell/Core company,176.9,timesheet,30.5,Painter/Plasterer
+56,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,TBE,176.9,timesheet,30.5,Painter/Plasterer
+57,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Painter/Plasterer,176.9,timesheet,30.5,Painter/Plasterer
+58,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Electrician,176.9,timesheet,30.5,Painter/Plasterer
+59,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Metal fabricator,176.9,timesheet,30.5,Painter/Plasterer
+60,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Roofer,176.9,timesheet,30.5,Painter/Plasterer
+61,,1493,Beseitigung von Verschmutzungen und Beschädigungen an den Wänden kurz vor einzug,building1,1592.1,Interior outfitter,176.9,timesheet,30.5,Painter/Plasterer
+62,,8023,"Revis nachträglich grundiert, gestrichten, abgeklebt",building1,365.4,TBE,365.4,timesheet,7.0,Painter/Plasterer
+63,,7324,"Leuchtenschlitze
+Deckenflächen nach Trockenbauarbeiten nochmals grundiert 2x deckend gestrichen + Abkleben, Abdecken",building1,1487.7,TBE,743.85,timesheet,28.5,Painter/Plasterer
+64,,7324,"Leuchtenschlitze
+Deckenflächen nach Trockenbauarbeiten nochmals grundiert 2x deckend gestrichen + Abkleben, Abdecken",building1,1487.7,Electrician,743.85,timesheet,28.5,Painter/Plasterer
+65,,6508,"Leuchtenschlitze
+Deckenflächen nach Trockenbauarbeiten nochmals grundiert 2x deckend gestrichen + Abkleben, Abdecken",building1,1305.0,TBE,652.5,timesheet,25.0,Painter/Plasterer
+66,,6508,"Leuchtenschlitze
+Deckenflächen nach Trockenbauarbeiten nochmals grundiert 2x deckend gestrichen + Abkleben, Abdecken",building1,1305.0,Electrician,652.5,timesheet,25.0,Painter/Plasterer
+67,,7374,"Leuchtenschlitze
+Deckenflächen Schlussanstrich + Abkleben, Abdecken",building1,626.4,TBE,313.2,timesheet,12.0,Painter/Plasterer
+68,,7374,"Leuchtenschlitze
+Deckenflächen Schlussanstrich + Abkleben, Abdecken",building1,626.4,Electrician,313.2,timesheet,12.0,Painter/Plasterer
+69,2017-10-23 00:00:00,7607,Kabelschlitze und Löscher im WG geschlossen,building3,182.7,Electrician,182.7,timesheet,3.5,Painter/Plasterer
+70,,6671,"Leuchtenschlitze
+Deckenflächen Schlussanstrich + Abkleben, Abdecken",building1,861.3,TBE,430.65,timesheet,16.5,Painter/Plasterer
+71,,6671,"Leuchtenschlitze
+Deckenflächen Schlussanstrich + Abkleben, Abdecken",building1,861.3,Electrician,430.65,timesheet,16.5,Painter/Plasterer
+72,,7727,"Leuchtenschlitze
+Deckenflächen Schlussanstrich + Abkleben, Abdecken",building1,1044.0,TBE,522.0,timesheet,20.0,Painter/Plasterer
+73,,7727,"Leuchtenschlitze
+Deckenflächen Schlussanstrich + Abkleben, Abdecken",building1,1044.0,Electrician,522.0,timesheet,20.0,Painter/Plasterer
+74,,4245,Kabelschlitze und Löscher im WG geschlossen,building3,2088.0,Electrician,2088.0,timesheet,40.0,Painter/Plasterer
+75,,5453,Kabelschlitze und Löscher im WG geschlossen,building3,1566.0,Electrician,1566.0,timesheet,30.0,Painter/Plasterer
+76,2017-08-14 00:00:00,4329,"Bäder Etagen 1 -4 nachträglich verspachtelten 
+Trockenbau grundiert vorgestichen ",building2,104.4,Electrician,104.4,timesheet,2.0,Painter/Plasterer
+77,2017-08-16 00:00:00,1618,1.OG - Treppenhaus: Fahrstuhltüren 2x Klebungen an Trockenbau sowie Rahmen des Aufzuges abgekratzt . ,building1,104.4,Building-owner,0.0,timesheet,2.0,Painter/Plasterer
+78,2017-01-25 00:00:00,1005,"Attikaabdeckung: Ausschnitte für die Klempner
+Dämmung und Klebereste entfernt",,1148.4,Building-owner,0.0,timesheet,22.0,Painter/Plasterer
+79,,6723,Rreinigung Regalanlage,building1,2557.97,Tenant,2557.97,additional work agreement,,Cleaning company
+80,,5277,"MW Fläche BG1 Besprechungsraum Gespachtelt, geweisst",building1,417.6,Building-owner,0.0,timesheet,8.0,Painter/Plasterer
+81,2017-11-22 00:00:00,2201,Sondernutzungverlängerung 05 aufgrund von Bauzeitenverlängerung ,BE,70.0,Facade/Glass builder,70.0,permit,,Permit office
+82,2017-11-22 00:00:00,2201,Sondernutzungverlängerung 05 aufgrund von Bauzeitenverlängerung ,BE,150.0,Facade/Glass builder,150.0,permit,,Permit office
+83,2017-10-08 00:00:00,8421,Sondernutzungverlängerung 04 aufgrund von Bauzeitenverlängerung ,BE,105.0,Facade/Glass builder,105.0,permit,,Permit office
+84,2017-10-08 00:00:00,8421,Sondernutzungverlängerung 04 aufgrund von Bauzeitenverlängerung ,BE,5600.0,Facade/Glass builder,5600.0,permit,,Permit office
+85,2017-07-03 00:00:00,8664,Sondernutzungverlängerung 03 aufgrund von Bauzeitenverlängerung ,BE,70.0,Facade/Glass builder,70.0,permit,,Permit office
+86,2017-07-03 00:00:00,8664,Sondernutzungverlängerung 03 aufgrund von Bauzeitenverlängerung ,BE,348.0,Facade/Glass builder,348.0,permit,,Permit office
+87,2017-05-15 00:00:00,7846,Sondernutzungverlängerung 02 aufgrund von Bauzeitenverlängerung L34,BE,105.0,Facade/Glass builder,105.0,permit,,Permit office
+88,2017-05-15 00:00:00,7846,Sondernutzungverlängerung 02 aufgrund von Bauzeitenverlängerung L34,BE,1980.0,Facade/Glass builder,1980.0,permit,,Permit office
+89,2017-03-29 00:00:00,2889,Sondernutzungverlängerung 01 aufgrund von Bauzeitenverlängerung L34,BE,105.0,Facade/Glass builder,105.0,permit,,Permit office
+90,2017-03-29 00:00:00,2889,Sondernutzungverlängerung 01 aufgrund von Bauzeitenverlängerung L34,BE,5600.0,Facade/Glass builder,5600.0,permit,,Permit office
+92,2017-08-06 00:00:00,2553,Wasserschaden im 4.OG ,building1,14.3,Building-owner,0.0,timesheet,0.5,Cleaning company
+93,2017-09-06 00:00:00,1812,Sichtschut befestigt,,28.6,Building-owner,0.0,timesheet,1.0,Cleaning company
+94,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Metal fabricator,3.18,timesheet,1.0,Cleaning company
+95,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Interior outfitter,3.18,timesheet,1.0,Cleaning company
+96,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,TBE,3.18,timesheet,1.0,Cleaning company
+97,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Facade/Glass builder,3.18,timesheet,1.0,Cleaning company
+98,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Roofer,3.18,timesheet,1.0,Cleaning company
+99,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Electrician,3.18,timesheet,1.0,Cleaning company
+100,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Water/Plumbing fitter,3.18,timesheet,1.0,Cleaning company
+101,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Painter/Plasterer,3.18,timesheet,1.0,Cleaning company
+102,2017-09-03 00:00:00,6623,Material/ Müll von Fremdfirmen entsorgt,,28.6,Shell/Core company,3.18,timesheet,1.0,Cleaning company
+103,2017-03-29 00:00:00,2622,div. Glasreinigungen,building3,28.6,Building-owner,0.0,timesheet,1.0,Cleaning company
+104,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Facade/Glass builder,9.53,timesheet,3.0,Cleaning company
+105,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Water/Plumbing fitter,9.53,timesheet,3.0,Cleaning company
+106,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,TBE,9.53,timesheet,3.0,Cleaning company
+107,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Metal fabricator,9.53,timesheet,3.0,Cleaning company
+108,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Electrician,9.53,timesheet,3.0,Cleaning company
+109,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Painter/Plasterer,9.53,timesheet,3.0,Cleaning company
+110,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Shell/Core company,0.0,timesheet,3.0,Cleaning company
+111,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Interior outfitter,9.53,timesheet,3.0,Cleaning company
+112,2017-09-06 00:00:00,2725,"Maschinelle Teppichreinigung, sowie nachsaugen",building1,85.80000000000003,Roofer,9.53,timesheet,3.0,Cleaning company
+113,2017-07-25 00:00:00,2438,Beseitigung des Wasserschadens WG,building3,85.80000000000003,Building-owner,0.0,timesheet,3.0,Cleaning company
+114,2017-09-20 00:00:00,7987,Beseitigung des Wasserschadens WG,building3,114.4,Building-owner,0.0,timesheet,4.0,Cleaning company
+115,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Facade/Glass builder,23.83,timesheet,7.5,Cleaning company
+116,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Metal fabricator,23.83,timesheet,7.5,Cleaning company
+117,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Water/Plumbing fitter,23.83,timesheet,7.5,Cleaning company
+118,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Roofer,23.83,timesheet,7.5,Cleaning company
+119,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Painter/Plasterer,23.83,timesheet,7.5,Cleaning company
+120,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Electrician,23.83,timesheet,7.5,Cleaning company
+121,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Shell/Core company,23.83,timesheet,7.5,Cleaning company
+122,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,Interior outfitter,23.83,timesheet,7.5,Cleaning company
+123,2017-07-25 00:00:00,5887,Beräumung der Südseite,,214.5,TBE,23.83,timesheet,7.5,Cleaning company
+124,2017-08-06 00:00:00,8630,UG Wasser beseitigt in Hebeanlage BG1,building1,228.8,Building-owner,0.0,timesheet,8.0,Cleaning company
+125,2017-03-11 00:00:00,7075,Wasser im Fahrstuhlschacht entfernt,building3,228.8,Building-owner,0.0,timesheet,8.0,Cleaning company
+126,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Metal fabricator,31.78,timesheet,10.0,Cleaning company
+127,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Facade/Glass builder,31.78,timesheet,10.0,Cleaning company
+128,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Water/Plumbing fitter,31.78,timesheet,10.0,Cleaning company
+129,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,TBE,31.78,timesheet,10.0,Cleaning company
+130,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Painter/Plasterer,31.78,timesheet,10.0,Cleaning company
+131,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Shell/Core company,31.78,timesheet,10.0,Cleaning company
+132,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Roofer,31.78,timesheet,10.0,Cleaning company
+133,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Electrician,31.78,timesheet,10.0,Cleaning company
+134,2017-07-18 00:00:00,9317,Beräumung der Nordseite,,286.0,Interior outfitter,31.78,timesheet,10.0,Cleaning company
+135,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Metal fabricator,35.75,timesheet,11.25,Cleaning company
+136,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Facade/Glass builder,35.75,timesheet,11.25,Cleaning company
+137,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Roofer,35.75,timesheet,11.25,Cleaning company
+138,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,TBE,35.75,timesheet,11.25,Cleaning company
+139,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Water/Plumbing fitter,35.75,timesheet,11.25,Cleaning company
+140,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Painter/Plasterer,35.75,timesheet,11.25,Cleaning company
+141,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Interior outfitter,35.75,timesheet,11.25,Cleaning company
+142,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Electrician,35.75,timesheet,11.25,Cleaning company
+143,2017-07-26 00:00:00,9689,4-6. OG Bodentanks,building1,321.75,Shell/Core company,0.0,timesheet,11.25,Cleaning company
+144,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Facade/Glass builder,35.75,timesheet,11.25,Cleaning company
+145,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Metal fabricator,35.75,timesheet,11.25,Cleaning company
+146,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Roofer,35.75,timesheet,11.25,Cleaning company
+147,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,TBE,35.75,timesheet,11.25,Cleaning company
+148,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Water/Plumbing fitter,35.75,timesheet,11.25,Cleaning company
+149,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Painter/Plasterer,35.75,timesheet,11.25,Cleaning company
+150,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Shell/Core company,0.0,timesheet,11.25,Cleaning company
+151,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Interior outfitter,35.75,timesheet,11.25,Cleaning company
+152,2017-07-25 00:00:00,2120,1-3. OG Bodentanks,building1,321.75,Electrician,35.75,timesheet,11.25,Cleaning company
+153,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Metal fabricator,36.54,timesheet,11.5,Cleaning company
+154,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Electrician,36.54,timesheet,11.5,Cleaning company
+155,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,TBE,36.54,timesheet,11.5,Cleaning company
+156,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Water/Plumbing fitter,36.54,timesheet,11.5,Cleaning company
+157,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Painter/Plasterer,36.54,timesheet,11.5,Cleaning company
+158,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Shell/Core company,0.0,timesheet,11.5,Cleaning company
+159,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Interior outfitter,36.54,timesheet,11.5,Cleaning company
+160,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Facade/Glass builder,36.54,timesheet,11.5,Cleaning company
+161,2017-09-05 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,328.9000000000001,Roofer,36.54,timesheet,11.5,Cleaning company
+162,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Water/Plumbing fitter,39.72,timesheet,12.5,Cleaning company
+163,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Roofer,39.72,timesheet,12.5,Cleaning company
+164,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Painter/Plasterer,39.72,timesheet,12.5,Cleaning company
+165,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Facade/Glass builder,39.72,timesheet,12.5,Cleaning company
+166,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Electrician,39.72,timesheet,12.5,Cleaning company
+167,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Shell/Core company,0.0,timesheet,12.5,Cleaning company
+168,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Metal fabricator,39.72,timesheet,12.5,Cleaning company
+169,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,TBE,39.72,timesheet,12.5,Cleaning company
+170,2017-10-16 00:00:00,6631,Teppichreingung+ Reviklappen gereinigt,building2,357.5,Interior outfitter,39.72,timesheet,12.5,Cleaning company
+171,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Metal fabricator,39.72,timesheet,12.5,Cleaning company
+172,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Facade/Glass builder,39.72,timesheet,12.5,Cleaning company
+173,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Roofer,39.72,timesheet,12.5,Cleaning company
+174,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,TBE,39.72,timesheet,12.5,Cleaning company
+175,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Water/Plumbing fitter,39.72,timesheet,12.5,Cleaning company
+176,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Painter/Plasterer,39.72,timesheet,12.5,Cleaning company
+177,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Shell/Core company,0.0,timesheet,12.5,Cleaning company
+178,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Interior outfitter,39.72,timesheet,12.5,Cleaning company
+179,2017-07-26 00:00:00,7920,"Treppenhaus 1-6.OG gereinigt, Kautschukboden gereinigt",building1,357.5,Electrician,39.72,timesheet,12.5,Cleaning company
+180,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Water/Plumbing fitter,47.67,timesheet,15.0,Cleaning company
+181,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Painter/Plasterer,47.67,timesheet,15.0,Cleaning company
+182,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Facade/Glass builder,47.67,timesheet,15.0,Cleaning company
+183,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Interior outfitter,47.67,timesheet,15.0,Cleaning company
+184,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Electrician,47.67,timesheet,15.0,Cleaning company
+185,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,TBE,47.67,timesheet,15.0,Cleaning company
+186,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Metal fabricator,47.67,timesheet,15.0,Cleaning company
+187,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Roofer,47.67,timesheet,15.0,Cleaning company
+188,2017-08-06 00:00:00,2476,saugen und Punktuell mit Maschine Böden gereinigt,building1,429.0,Shell/Core company,0.0,timesheet,15.0,Cleaning company
+189,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Metal fabricator,50.84,timesheet,16.0,Cleaning company
+190,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Facade/Glass builder,50.84,timesheet,16.0,Cleaning company
+191,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Interior outfitter,50.84,timesheet,16.0,Cleaning company
+192,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,TBE,50.84,timesheet,16.0,Cleaning company
+193,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Water/Plumbing fitter,50.84,timesheet,16.0,Cleaning company
+194,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Painter/Plasterer,50.84,timesheet,16.0,Cleaning company
+195,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Roofer,50.84,timesheet,16.0,Cleaning company
+196,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Shell/Core company,50.84,timesheet,16.0,Cleaning company
+197,2017-07-26 00:00:00,1168,Beräumung der Südseite,,457.6,Electrician,50.84,timesheet,16.0,Cleaning company
+198,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Metal fabricator,52.43,timesheet,16.5,Cleaning company
+199,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Facade/Glass builder,52.43,timesheet,16.5,Cleaning company
+200,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Electrician,52.43,timesheet,16.5,Cleaning company
+201,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Water/Plumbing fitter,52.43,timesheet,16.5,Cleaning company
+202,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Painter/Plasterer,52.43,timesheet,16.5,Cleaning company
+203,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,TBE,52.43,timesheet,16.5,Cleaning company
+204,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Interior outfitter,52.43,timesheet,16.5,Cleaning company
+205,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Roofer,52.43,timesheet,16.5,Cleaning company
+206,2017-08-05 00:00:00,2843,Beräumung der Südseite und entsorgung,,471.9,Shell/Core company,52.43,timesheet,16.5,Cleaning company
+207,2017-08-26 00:00:00,6027,Verpackungsmaterial samt div. Müll des Suhrkamps wurde von der obersten bis zu untersten Etage vertragen und in 2 Containern entsorgt jeweils 10 m³,building1,543.4,Tenant,543.4,timesheet,19.0,Cleaning company
+208,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Metal fabricator,71.5,timesheet,22.5,Cleaning company
+209,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Water/Plumbing fitter,71.5,timesheet,22.5,Cleaning company
+210,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Electrician,71.5,timesheet,22.5,Cleaning company
+211,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,TBE,71.5,timesheet,22.5,Cleaning company
+212,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,TBE,71.5,timesheet,22.5,Cleaning company
+213,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Facade/Glass builder,71.5,timesheet,22.5,Cleaning company
+214,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Metal fabricator,71.5,timesheet,22.5,Cleaning company
+215,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Roofer,71.5,timesheet,22.5,Cleaning company
+216,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Shell/Core company,71.5,timesheet,22.5,Cleaning company
+217,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Water/Plumbing fitter,71.5,timesheet,22.5,Cleaning company
+218,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Painter/Plasterer,71.5,timesheet,22.5,Cleaning company
+219,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Electrician,71.5,timesheet,22.5,Cleaning company
+220,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Painter/Plasterer,71.5,timesheet,22.5,Cleaning company
+221,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Facade/Glass builder,71.5,timesheet,22.5,Cleaning company
+222,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Painter/Plasterer,71.5,timesheet,22.5,Cleaning company
+223,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Shell/Core company,71.5,timesheet,22.5,Cleaning company
+224,2017-07-12 00:00:00,2466,BG2: UG-5.OG,building2,643.5,Interior outfitter,71.5,timesheet,22.5,Cleaning company
+225,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Interior outfitter,71.5,timesheet,22.5,Cleaning company
+226,2017-07-12 00:00:00,2466,"BE-Fläche beräumt, Material verräumt ",,643.5,Roofer,71.5,timesheet,22.5,Cleaning company
+227,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Roofer,71.5,timesheet,22.5,Cleaning company
+228,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,TBE,71.5,timesheet,22.5,Cleaning company
+229,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Facade/Glass builder,71.5,timesheet,22.5,Cleaning company
+230,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Metal fabricator,71.5,timesheet,22.5,Cleaning company
+231,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Electrician,71.5,timesheet,22.5,Cleaning company
+232,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Water/Plumbing fitter,71.5,timesheet,22.5,Cleaning company
+233,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Shell/Core company,71.5,timesheet,22.5,Cleaning company
+234,2017-07-12 00:00:00,2466,BG1: 6-KG Baumischabfall und Holz berümpt + gefegt,building1,643.5,Interior outfitter,71.5,timesheet,22.5,Cleaning company
+235,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Facade/Glass builder,76.27,timesheet,24.0,Cleaning company
+236,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Metal fabricator,76.27,timesheet,24.0,Cleaning company
+237,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Electrician,76.27,timesheet,24.0,Cleaning company
+238,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Water/Plumbing fitter,76.27,timesheet,24.0,Cleaning company
+239,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Painter/Plasterer,76.27,timesheet,24.0,Cleaning company
+240,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Interior outfitter,76.27,timesheet,24.0,Cleaning company
+241,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,TBE,76.27,timesheet,24.0,Cleaning company
+242,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Shell/Core company,0.0,timesheet,24.0,Cleaning company
+243,2017-08-07 00:00:00,8647,"6-1.OG Toiletten gereinigt, 3-2 OG Boden gesaugt und Teppich punktuell mit Maschine",building1,686.4000000000002,Roofer,76.27,timesheet,24.0,Cleaning company
+244,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Facade/Glass builder,90.57,timesheet,28.5,Cleaning company
+245,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Metal fabricator,90.57,timesheet,28.5,Cleaning company
+246,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,TBE,90.57,timesheet,28.5,Cleaning company
+247,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Water/Plumbing fitter,90.57,timesheet,28.5,Cleaning company
+248,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Painter/Plasterer,90.57,timesheet,28.5,Cleaning company
+249,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Interior outfitter,90.57,timesheet,28.5,Cleaning company
+250,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Roofer,90.57,timesheet,28.5,Cleaning company
+251,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Electrician,90.57,timesheet,28.5,Cleaning company
+252,2017-07-16 00:00:00,4614,"BE-Fläche beräumt, Material verräumt ",,815.1,Shell/Core company,90.57,timesheet,28.5,Cleaning company
+253,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Facade/Glass builder,136.64,timesheet,43.0,Cleaning company
+254,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Metal fabricator,136.64,timesheet,43.0,Cleaning company
+255,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Electrician,136.64,timesheet,43.0,Cleaning company
+256,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Painter/Plasterer,136.64,timesheet,43.0,Cleaning company
+257,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Interior outfitter,136.64,timesheet,43.0,Cleaning company
+258,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Roofer,136.64,timesheet,43.0,Cleaning company
+259,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Water/Plumbing fitter,136.64,timesheet,43.0,Cleaning company
+260,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,Shell/Core company,136.64,timesheet,43.0,Cleaning company
+261,2017-03-22 00:00:00,6948,"Baugrobreingung der Außenanlage, beräumung von Müll + entsorgung, (Holz+ Bauabfälle) Entfernen von Sandhügel im Baustellen Eingangsbereich",,1229.8,TBE,136.64,timesheet,43.0,Cleaning company
+262,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Metal fabricator,27.74,timesheet,,Cleaning company
+263,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,TBE,27.74,timesheet,,Cleaning company
+264,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Facade/Glass builder,27.74,timesheet,,Cleaning company
+265,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Roofer,27.74,timesheet,,Cleaning company
+266,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Water/Plumbing fitter,27.74,timesheet,,Cleaning company
+267,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Painter/Plasterer,27.74,timesheet,,Cleaning company
+268,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Electrician,27.74,timesheet,,Cleaning company
+269,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Shell/Core company,27.74,timesheet,,Cleaning company
+270,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building2,249.678,Interior outfitter,27.74,timesheet,,Cleaning company
+271,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,TBE,43.76,timesheet,,Cleaning company
+272,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Painter/Plasterer,43.76,timesheet,,Cleaning company
+273,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Facade/Glass builder,43.76,timesheet,,Cleaning company
+274,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Metal fabricator,43.76,timesheet,,Cleaning company
+275,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Roofer,43.76,timesheet,,Cleaning company
+276,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Water/Plumbing fitter,43.76,timesheet,,Cleaning company
+277,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Electrician,43.76,timesheet,,Cleaning company
+278,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Shell/Core company,43.76,timesheet,,Cleaning company
+279,2017-07-12 00:00:00,2466,"Dach Alle Flächen beräumt (Baumisch 25 m³, 10 m³ Holz)",building1,393.82199999999995,Interior outfitter,43.76,timesheet,,Cleaning company
+280,,6653,BE - Reinigung,,24917.45,Water/Plumbing fitter,747.52,invoice,,Cleaning company
+281,,6653,BE - Reinigung,,24917.45,Metal fabricator,747.52,invoice,,Cleaning company
+282,,6653,BE - Reinigung,,24917.45,Painter/Plasterer,996.7,invoice,,Cleaning company
+283,,6653,BE - Reinigung,,24917.45,TBE,1993.4,invoice,,Cleaning company
+284,,6653,BE - Reinigung,,24917.45,Electrician,1993.4,invoice,,Cleaning company
+285,,6653,BE - Reinigung,,24917.45,Roofer,1993.4,invoice,,Cleaning company
+286,,6653,BE - Reinigung,,24917.45,Interior outfitter,2740.92,invoice,,Cleaning company
+287,,6653,BE - Reinigung,,24917.45,Facade/Glass builder,6229.36,invoice,,Cleaning company
+288,,6653,BE - Reinigung,,24916.45,Shell/Core company,1245.82,invoice,,Cleaning company
+289,,3990,Vorhaltung Gerüst Durchgang zum Müllhof,building3,84.8,Roofer,84.8,other,,Scaffold-builder
+290,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Painter/Plasterer,363.07,additional work agreement,,Cleaning company
+291,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Electrician,363.07,additional work agreement,,Cleaning company
+292,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Water/Plumbing fitter,363.07,additional work agreement,,Cleaning company
+293,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Metal fabricator,363.07,additional work agreement,,Cleaning company
+294,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Roofer,363.07,additional work agreement,,Cleaning company
+295,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Facade/Glass builder,363.07,additional work agreement,,Cleaning company
+296,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,TBE,363.07,additional work agreement,,Cleaning company
+297,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Interior outfitter,363.07,additional work agreement,,Cleaning company
+298,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building2,3267.6196000000004,Shell/Core company,363.07,additional work agreement,,Cleaning company
+299,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Metal fabricator,572.68,additional work agreement,,Cleaning company
+300,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,TBE,572.68,additional work agreement,,Cleaning company
+301,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Facade/Glass builder,572.68,additional work agreement,,Cleaning company
+302,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Interior outfitter,572.68,additional work agreement,,Cleaning company
+303,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Painter/Plasterer,572.68,additional work agreement,,Cleaning company
+304,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Electrician,572.68,additional work agreement,,Cleaning company
+305,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Shell/Core company,572.68,additional work agreement,,Cleaning company
+306,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Water/Plumbing fitter,572.68,additional work agreement,,Cleaning company
+307,2017-03-06 00:00:00,7761,Mehrkosten wiederholende Leistungen Schäden an fertiggestellte Leistung ,building1,5154.080400000002,Roofer,572.68,additional work agreement,,Cleaning company
+308,2017-03-27 00:00:00,6948,"Wasser gesaugt für KB, Material verlagert",building1,683.46,Building-owner,0.0,timesheet,18.0,Roofer
+309,2017-03-13 00:00:00,7075,"Dachfläche getrocknet und von Wasser befreit für Kernbohrung, Schwanenhalt eingebaut, geöffnete Fläche von Wasser befreit etc. ",building1,721.43,Building-owner,0.0,timesheet,19.0,Roofer
+310,,9557,"Container Einmalzahlung
+siehe Containerkosten aufstellung vom 21.09.2018",,742.63,TBE,742.63,additional work agreement,12.0,Shell/Core company
+311,,9557,"Container Einmalzahlung
+siehe Containerkosten aufstellung vom 21.09.2018",,742.63,Roofer,742.63,additional work agreement,12.0,Shell/Core company
+312,,9557,"Container Einmalzahlung
+siehe Containerkosten aufstellung vom 21.09.2018",,742.63,Interior outfitter,742.63,additional work agreement,12.0,Shell/Core company
+313,,9557,"Container Einmalzahlung
+siehe Containerkosten aufstellung vom 21.09.2018",,742.63,Water/Plumbing fitter,742.63,additional work agreement,,Shell/Core company
+314,,9557,"Container Einmalzahlung
+siehe Containerkosten aufstellung vom 21.09.2018",,742.63,Electrician,742.63,additional work agreement,,Shell/Core company
+315,,9557,"Container Miete
+siehe Containerkosten aufstellung vom 21.09.2018",,1145.52,Roofer,1145.52,additional work agreement,4.0,Shell/Core company
+316,,9557,"Container Einmalzahlung
+siehe Containerkosten aufstellung vom 21.09.2018",,1343.7,Facade/Glass builder,1343.7,additional work agreement,12.0,Shell/Core company
+317,,9557,"Container Miete
+siehe Containerkosten aufstellung vom 21.09.2018",,3436.56,TBE,3436.56,additional work agreement,12.0,Shell/Core company
+318,,9557,"Container Miete
+siehe Containerkosten aufstellung vom 21.09.2018",,3436.56,Electrician,3436.56,additional work agreement,12.0,Shell/Core company
+319,,9557,"Container Miete
+siehe Containerkosten aufstellung vom 21.09.2018",,3436.56,Water/Plumbing fitter,3436.56,additional work agreement,12.0,Shell/Core company
+320,,9557,"Container Miete
+siehe Containerkosten aufstellung vom 21.09.2018",,3436.56,Interior outfitter,3436.56,additional work agreement,12.0,Shell/Core company
+321,,9557,"Container Miete
+siehe Containerkosten aufstellung vom 21.09.2018",,9405.2,Facade/Glass builder,9405.2,additional work agreement,14.0,Shell/Core company
+322,,3002,"
+div. Leistungen 
+",,7977.17,Not_clear,7977.17,invoice,,Shell/Core company
+323,,5190,"Nachtrag Bauaufzüge GEDA 1500
+
+",,11358.12,Facade/Glass builder,11358.12,invoice,,Shell/Core company
+326,,5063,"Fassadengerüst, LK4, Gebrauchsüberl. 
+
+",,31871.558000000005,Facade/Glass builder,6781.74,invoice,,Shell/Core company
+327,,8304,"Gerüstbekleidung mit Netz, Vollflächig, Verlängerung 
+",,4483.9000000000015,Facade/Glass builder,1315.0,invoice,,Shell/Core company
+328,,5353,"Fassadengerüst, LK4, Gebrauchsüberl. 
+
+",,16199.771999999999,Facade/Glass builder,3246.0,invoice,,Shell/Core company
+329,,9905,"Fassadengerüst, LK4, Gebrauchsüberl. 
+
+",,9464.192,Facade/Glass builder,2302.5,invoice,,Shell/Core company
+330,,9693,"Konsolgerüst, Gebrauchsüberlassung
+
+",,4601.035,Facade/Glass builder,1015.01,invoice,,Shell/Core company
+331,,5569,"Fußgängertunnel,Gebrauchsüberlassung
+
+",,13001.507999999998,Facade/Glass builder,3107.45,invoice,,Shell/Core company
+332,,6432,"Überbrückung, LK3, Gebrauchsüberlassung
+
+",,3265.328,Facade/Glass builder,1612.16,invoice,,Shell/Core company
+333,,2570,"Überbrückung, LK4, Gebrauchsüberlassung 
+
+",,3445.7670000000003,Facade/Glass builder,968.99,invoice,,Shell/Core company
+334,,3551,"Montage Bautür BT2
+Montage Bautür BT1
+Rampe auf Gerüst BT1
+Rampe vor Aufzug BT1
+Decke abstenneb 1.OG BT1",building2,694.68,Building-owner,0.0,timesheet,21.0,Shell/Core company
+335,,3551,"Montage Bautür BT2
+Montage Bautür BT1
+Rampe auf Gerüst BT1
+Rampe vor Aufzug BT1
+Decke abstenneb 1.OG BT1",building1,694.68,Building-owner,0.0,timesheet,21.0,Shell/Core company
+336,,2392,Vattenfall - Material abladen (Vattenfall nicht vor Ort),BE,33.08,Water provider,0.0,timesheet,1.0,Shell/Core company
+337,,9395,Aufrämungsarbeiten - UG Achse G-J / X2,building1,49.62,Building-owner,0.0,timesheet,1.5,Shell/Core company
+338,,8221,Decke Müllaufzug Ausschalen ,building1,66.16,Building-owner,0.0,timesheet,2.0,Shell/Core company
+339,,6822,Decke Betonieren - Hubbühne,building1,66.16,Building-owner,0.0,timesheet,2.0,Shell/Core company
+340,,4018,"Aufzug Einbauteil Wand aufstellen für Einbauteil.
+Montage Einbauteil + Schalung und Bewehrung ",building3,1058.56,Building-owner,0.0,timesheet,32.0,Shell/Core company
+341,,3498,"Müllaufzug Bühne Ausbauen - Neue Decke Schalen Achse K-J.
+Bewehrung Einkleben Hilti Hit 
+ ",building1,793.92,Building-owner,0.0,timesheet,24.0,Shell/Core company
+342,,9549,"Erdreich aus den EG BG1 beseitigt Handtransport.
+Boden entsorgt 10m³",building1,1257.04,Building-owner,0.0,timesheet,38.0,Shell/Core company
+343,,9549,"Erdreich aus den EG BG1 beseitigt Handtransport.
+Boden entsorgt 10m³",building2,1257.04,Building-owner,0.0,timesheet,38.0,Shell/Core company
+344,,8911,Verfüllarbeiten Fundament Innenhof (Handschachtung),building3,198.48,Building-owner,0.0,timesheet,6.0,Shell/Core company
+345,,5934,"Foyer-Wand neubeplanken wegen Kratzer in Schalhaut.
+Als Nachtrag angeboten ",,297.72,Building-owner,0.0,timesheet,9.0,Shell/Core company
+346,,4930,"Bauzaun Linienstr. 34 Abbau.
+Bauzaun neu aufstellen.
+Strapenschild Abbau",,793.92,Building-owner,0.0,timesheet,24.0,Shell/Core company
+347,,6889,"Baustelle beräumt für Autokran Rückbau Trägerverbau
+inkl. Bauzaun Bereich Einfahrt",,496.2,Building-owner,0.0,timesheet,15.0,Shell/Core company
+348,,1934,Umstellen Bauzaun Torstr. ,,132.32,Building-owner,0.0,timesheet,4.0,Shell/Core company
+349,,3266,"Bauzaunfelder + Füße vom öffentlichen Straßenland 
+entfernt und auf Baustelle zwischengelagert",,132.32,Building-owner,0.0,timesheet,4.0,Shell/Core company
+350,,5434,"BG1 Sohle UG - Herstellen der Schlitze für Fundamenterder Achse A-J / X1-X3.
+Verlängerung des Fundamenterders im Bereich der Außenwände.
+Wassersaugen im Bereich der Bodenschlitze.
+Fugen schließen mit Betonestrich.",building1,1568.77,Building-owner,0.0,timesheet,,Shell/Core company
+351,2017-04-15 00:00:00,6141,Demontage der bereits gestellten GK Trennwand im BT 2 1.OG Raum 02.01.02 ,building2,705.0,Tenant,705.0,timesheet,15.0,Interior outfitter
+352,2017-03-20 00:00:00,4798,"Öffnen der Vorsatzschale und Außenwand Fassadenverkleidung im Bereich der Nische für Schiebetore 2-5.OG BG1 , teilweise Rückbau der GK-Verkleidung im Treppenbereich für die Befestigung der Schiebetore ",building1,1504.0,Metal fabricator,1504.0,timesheet,32.0,Interior outfitter
+353,2017-03-14 00:00:00,3359,Montage und Verspachtelung einer zusätzlichen Reviöffnung für Fettabscheider im 3.OG Achse H/ x2,building1,141.0,Tenant,141.0,timesheet,3.0,Interior outfitter
+354,2017-01-10 00:00:00,8353,Öffnen von GK Trennwänden in 5.OG wegen Verlegung fehlender Elektro Kabel sowie im Nachgang neu verschließen und spachteln,building1,504.55,Electrician,504.55,timesheet,10.0,Interior outfitter
+355,2017-09-30 00:00:00,5270,"Transportzulage für das Vertragen von Holztürblättern aus dem Bereich BG1/ EG zwischenlager in das WG 1-5.OG, per Handtransport",building1,846.0,Building-owner,0.0,timesheet,18.0,Interior outfitter
+356,,4192,"Herstellen einer prov. Tür für den Verschluß des Eingangsbereich BG2 sowie morgens und abends, öffnen und schließen",building2,517.0,Building-owner,0.0,timesheet,11.0,Interior outfitter
+357,2017-09-19 00:00:00,1792,Schließen von Aussparrungen im Fußbodenbereich (BG2 WC 5+6. OG) die auf Grund zu hoher Installationen nicht überbaut werden konnten Anarbeiten Estrich im 5.OG / Dusche/ WG da Dusche verkleinert wurde. ,building2,266.3,other,133.15,timesheet,3.5,Interior outfitter
+358,2017-09-19 00:00:00,1792,Schließen von Aussparrungen im Fußbodenbereich (BG2 WC 5+6. OG) die auf Grund zu hoher Installationen nicht überbaut werden konnten Anarbeiten Estrich im 5.OG / Dusche/ WG da Dusche verkleinert wurde. ,building2,266.3,TBE,133.15,timesheet,3.5,Interior outfitter
+359,2017-10-15 00:00:00,5205,Schließen von Fehl und Fädelbohrungen  nach Kabelzug in den WC Anlagen BG2 1-6.OG und schließen der Dosenbohrungen im Bereich der Vorsatzschalen WC H/ D 1-4.OG für die Montage von Spiegeln,building2,470.0,Electrician,470.0,timesheet,10.0,Interior outfitter
+360,2017-10-23 00:00:00,8632,"Wohngebäude  1-4.OG Install. Schächte im Flurbereich + GK Decke im WC 4.OG 
+Öffnen und nach Umbau bzw. Vervollständigung der Lüftung neu verschließen der Install. Schächte im oben genannten Bereich. Die innere Abschottung mußte versetzt werden und neu abgedichtet werden",building3,1480.78,TBE,1480.78,timesheet,30.0,Interior outfitter
+361,2017-09-19 00:00:00,5358,Einbau und Verspachtelung nachträgliich geforderter Revis + öffnen und schließen GK Wand für den Einbau eines UA Profil für die Haustechnik ,building3,282.0,TBE,282.0,timesheet,6.0,Interior outfitter
+362,2017-09-19 00:00:00,3480,"Fertigstellung der zurückgestellten GK Lochdecke, im EG Besprechungsraum BG1, wgn noch fehlender Angaben über Leuchtenband und Verkabelung der Türanlage ",building1,705.0,TBE,705.0,timesheet,15.0,Interior outfitter
+363,2017-09-27 00:00:00,6910,"Beräumung Türen, Türzagrben und Material was eingebaut werden soll vom BG1 / EG zu BG2 EG für die Verlegung vom Fußboden",building1,1786.0,Building-owner,0.0,timesheet,38.0,Interior outfitter
+364,2017-11-09 00:00:00,8368,Änderung der GK-Vorsatzschale im WC D 01.UG.04 (Demontag und Neumontage der Unterkonstruktion),building1,218.0,other,109.0,timesheet,4.0,Interior outfitter
+365,2017-11-09 00:00:00,8368,Änderung der GK-Vorsatzschale im WC D 01.UG.04 (Demontag und Neumontage der Unterkonstruktion),building1,218.0,TBE,109.0,timesheet,4.0,Interior outfitter
+366,2017-09-06 00:00:00,2052,Schließen und Verspakctelt der GK Trennwand die durch Haustechnik eigenständig geöffnet wurde,building1,141.0,Water/Plumbing fitter,141.0,timesheet,3.0,Interior outfitter
+367,2017-05-09 00:00:00,1909,"Montage einer zusätzlichen Revi-Öffnung 600*600 im Bereich Teeküche  für ELT
+Montage von 5 STK Reviöffnungen in den Vorsatzschalen / Abstellräume ",building2,1917.0,Electrician,743.8,timesheet,30.5,Interior outfitter
+368,2017-05-09 00:00:00,1909,"Montage einer zusätzlichen Revi-Öffnung 600*600 im Bereich Teeküche  für ELT
+Montage von 5 STK Reviöffnungen in den Vorsatzschalen / Abstellräume ",building1,1917.0,Electrician,1173.2,timesheet,30.5,Interior outfitter
+369,2017-08-30 00:00:00,7950,"Montage einer zus. Revi. Öffnung im Flurbereich 4.OG.
+Schließen vom Wanddurchbrüchen nach Umsetzung der Abwasserleitung 4.OG.
+Montage von zus. Revi.Öffnungen im Flurbereich 5.OG, 2Stk",building3,475.59,TBE,475.59,timesheet,5.0,Interior outfitter
+370,2017-08-30 00:00:00,9569,"Wohngebäude  WC, Nochmaliger Materialtransport und einrichten der Arbeitsplätze für das schließen von GK-Vorsatzschalen nach Entfall der Ablagenischen im Wannenbereich",building3,141.0,Building-owner,0.0,timesheet,3.0,Interior outfitter
+371,2017-08-23 00:00:00,1723,Montage und Verspachtelung von nachträglich einzubauenden Revisionsöffnungen in GK-Lochdecke,building1,301.26,TBE,301.26,timesheet,5.5,Interior outfitter
+372,2017-08-15 00:00:00,1750,"Nachbesserung von GK-Trennwänden, die durch fremdgewerke beschädigt werden.",building1,329.0,Electrician,329.0,timesheet,7.0,Interior outfitter
+373,2017-08-08 00:00:00,4078,nochmaliges verschließen aller Revis in allen Bereichen des BG1 1-6.OG,building1,94.0,Water/Plumbing fitter,31.33,timesheet,2.0,Interior outfitter
+374,2017-08-08 00:00:00,4078,nochmaliges verschließen aller Revis in allen Bereichen des BG1 1-6.OG,building1,94.0,Electrician,31.33,timesheet,2.0,Interior outfitter
+375,2017-08-08 00:00:00,4078,nochmaliges verschließen aller Revis in allen Bereichen des BG1 1-6.OG,building1,94.0,TBE,31.33,timesheet,2.0,Interior outfitter
+376,2017-12-08 00:00:00,9279,"Nochmaliges verschließen (nach eigenständigem Öffnen) der GK-Lochdecken im Bereich F90 Wand / Treppenhaus für das Schotten von Kabeldurchführungen, sowie neu verspachteln",building1,708.0,Electrician,708.0,timesheet,14.0,Interior outfitter
+377,2017-08-08 00:00:00,7894,Verlegung von Schutzabdeckung aus Filzgruppen und Hartfaserplatten im Bereich BG1 Eingang und Treppenhauspodest 1-5.OG Schutzmaßnahme für den anstehenden Umzug des Nutzer.,building1,814.0,Building-owner,0.0,timesheet,8.0,Interior outfitter
+378,2017-06-08 00:00:00,2507,Abstoßen und Reinigen der Wandflächen im Sockelbereich (verputzte Wände) für die Verlegung von Parkett und Sockelleisten (Feststellung vor Ort mit Herrn Rumpf),building3,235.0,Painter/Plasterer,235.0,timesheet,5.0,Interior outfitter
+379,2017-12-08 00:00:00,8395,Schließen und Verspachteln von Öffnungen im GK Vorsatzschalen im 1-4.OG BG2 WC Herren und Dmen. Ein Verschluß war erst nach der Demontage der Gerüstbauer möglich und konnte nicht im Zuge der Montage ausgeführt werden.,building1,590.5,Facade/Glass builder,590.5,timesheet,11.5,Interior outfitter
+380,2017-08-14 00:00:00,1010,Montage einer zus. F90 Vorsatz im EG / Besprechungsraum BG1 Bereich Feuerlöscher ,building1,458.6,Building-owner,0.0,timesheet,8.5,Interior outfitter
+381,2017-07-30 00:00:00,8197,"Umbau der GK Trennwände, Türoffnungen und VSS laut aktueller Planung vom 09.07.2019 ",building1,922.78,Tenant,922.78,timesheet,17.0,Interior outfitter
+382,2017-07-24 00:00:00,5333,"Aufgrund zu hoher Leitungsführung, durch die bereits  montierte GK Laibung im F90  GK Wänden müssen diese nochmals umgebaut werden. Sonst keine Schottmontage möglich",building1,282.0,Electrician,282.0,timesheet,6.0,Interior outfitter
+383,2017-07-22 00:00:00,7726,Anlieferung und Einlagerung vom gefertigten Aufzugsportalen die nicht eingebaut wurden,building3,235.0,Building-owner,0.0,timesheet,5.0,Interior outfitter
+384,2017-07-16 00:00:00,4750,Schließen und spachteln von diversen Fehlbohrungnen und Kabelschlitzen in GK Vorsatzschalen sowie GK Wänden,building1,382.5,Electrician,382.5,timesheet,7.5,Interior outfitter
+386,,8526,"*Montage, verspachtlen zusätzlichen revi-Öffnung
+ in GK-Trennwand
+BG1 -  3.OG",building1,141.0,Tenant,141.0,timesheet,3.0,Interior outfitter
+387,2017-10-30 00:00:00,1175,Schließen und verspachteln der GK Schachtwand im 5.OG / WGB nach Montage eines zusätzlichen Waschamaschienenanschlusses,building3,218.0,TBE,218.0,timesheet,4.0,Interior outfitter
+388,2017-10-30 00:00:00,7084,Schließen von Fehl - und Fädelbohrungen in den GK Trennwänden (WG B / 5.OG Flur zu Dusche) nach Kabelzug,building3,94.0,Electrician,94.0,timesheet,2.0,Interior outfitter
+389,2017-10-30 00:00:00,9266,"Einbau und Verspachtelung nachträgliich geforderter Revis im bereits fertig gestellten Bereichen, 
+4OG WC im Deckenbereich für zusätzl.  Lüfter im Deckenhohlraum
+5OG: Schacht zur Decke über zus. Waschmaschinenenanschluss",building3,362.78,TBE,362.78,timesheet,4.0,Interior outfitter
+390,2017-10-26 00:00:00,1910,Montage eine zus. Rohverkleidung aus GK im Abstellraum BG2 2.OG inkl. Verspachtelung,building2,188.0,Building-owner,0.0,timesheet,4.0,Interior outfitter
+391,2017-10-25 00:00:00,3169,"Für den anstenenden Verguß der Bodenflächen muß die Estrichabstellung, die für ausstehende Kernbohrungen entfernt wurde , nochmals montiert werden. GK Trennwände im Gastro-Beriech EG BG1",building1,188.0,Building-owner,0.0,timesheet,4.0,Interior outfitter
+392,2017-10-24 00:00:00,7325,"3.OG BG2 
+Mehraufwand für das nachträgliche Herstellen + Einbau eines Revisionsrahmen nach Fertigstellung der Oberbeläge (Hohlraumboen)
+An + Abfahrt (Beschleunigung) 
+",building2,188.0,TBE,188.0,timesheet,4.0,Interior outfitter
+393,2017-08-08 00:00:00,1997,"Rückbau und Neubau des Hohlraumbodens im 
+Bereich der Feuerlöschleizungen für den nachträglichen Einbau eines F90 VVS",building1,312.0,Building-owner,0.0,timesheet,6.0,Interior outfitter
+394,2017-07-29 00:00:00,1453,"Mehraufwand für das nachträglich Hergestellen 
+von BT-Ausschnitten in 2.OG + Versetzen eines Drallanschlusses in EG",building2,376.0,Electrician,145.89,timesheet,8.0,Interior outfitter
+395,2017-07-29 00:00:00,1453,"Mehraufwand für das nachträglich Hergestellen 
+von BT-Ausschnitten in 2.OG + Versetzen eines Drallanschlusses in EG",building1,376.0,Electrician,230.11,timesheet,8.0,Interior outfitter
+396,2017-08-08 00:00:00,3311,Rückbau und Neubau des Hohlraumbodens in 5.OG in Bereich des Wasserschadens,building1,564.0,Insurance,0.0,timesheet,12.0,Interior outfitter
+397,2017-06-06 00:00:00,2349,"Mehraufwand für nachträgliche
+Ergänzungsarbeiten am Hohlraumboden und Instandsetzung..",building1,376.0,Water/Plumbing fitter,376.0,timesheet,8.0,Interior outfitter
+398,2017-06-06 00:00:00,9302," Rückbau der Vorabbeplankung in deren Teil der 
+F90 Schachtwand nach diversen Änderung der Kabelführung. 
+Schließung der nicht mehr benötigten Leibungen.
+Neumontage der Vorabbeplankung
+6.OG",building1,350.4,Electrician,350.4,timesheet,7.0,Interior outfitter
+399,2017-06-05 00:00:00,1165,"Änderung der GK-Vorsatzschale auf Grund von 
+Maßtoleranzen zur Rohbauoffnung - Türoffnung
+BG1 EG Teeküche",building1,188.0,Building-owner,0.0,timesheet,4.0,Interior outfitter
+400,2017-05-29 00:00:00,7516,"Verschließen, anarbeiten, aufdoppeln und 
+verspachteln der geöffneten GK-Verkofferungen im Bereich Schiebtor/narrative Treppe nach Angabe FA. MFT.
+Aufbringung einer Ausgleichschicht im Bereich Betonwand.
+BG1 2.- 6.OG",building1,1820.5,Metal fabricator,1820.5,timesheet,36.0,Interior outfitter
+401,2017-03-06 00:00:00,4259,"Reperatur der beschädigten Dacheinhausungen 
+nach Montage der Huastechnik
+Dachfläche über 6.OG BG1 + BG2",building2,838.8560000000001,Electrician,279.62,timesheet,46.0,Interior outfitter
+402,2017-03-06 00:00:00,4259,"Reperatur der beschädigten Dacheinhausungen 
+nach Montage der Huastechnik
+Dachfläche über 6.OG BG1 + BG2",building2,838.8560000000001,Water/Plumbing fitter,279.62,timesheet,46.0,Interior outfitter
+403,2017-03-06 00:00:00,4259,"Reperatur der beschädigten Dacheinhausungen 
+nach Montage der Huastechnik
+Dachfläche über 6.OG BG1 + BG2",building2,838.8560000000001,TBE,279.62,timesheet,46.0,Interior outfitter
+404,2017-03-06 00:00:00,4259,"Reperatur der beschädigten Dacheinhausungen 
+nach Montage der Huastechnik
+Dachfläche über 6.OG BG1 + BG2",building1,1323.144,Electrician,441.05,timesheet,46.0,Interior outfitter
+405,2017-03-06 00:00:00,4259,"Reperatur der beschädigten Dacheinhausungen 
+nach Montage der Huastechnik
+Dachfläche über 6.OG BG1 + BG2",building1,1323.144,TBE,441.05,timesheet,46.0,Interior outfitter
+406,2017-03-06 00:00:00,4259,"Reperatur der beschädigten Dacheinhausungen 
+nach Montage der Huastechnik
+Dachfläche über 6.OG BG1 + BG2",building1,1323.144,Water/Plumbing fitter,441.05,timesheet,46.0,Interior outfitter
+407,2017-05-27 00:00:00,3967,"Vergrößern der Leuchtenausschinte von 120mm 
+auf 215mm in allen GK-Lochdecken 
+1. -6.OG BG2",building2,376.0,Electrician,376.0,timesheet,8.0,Interior outfitter
+408,2017-05-28 00:00:00,6388,"Öffnen und Einbau zusätzlicher Abhängung, Profilen 
+und Holzverstärkungen für Vorhangschiene, neu verschliesen und spachteln der GK-Lochdecke
+6.OG BG1 Flur ",building1,1710.8,other,1710.8,timesheet,29.0,Interior outfitter
+409,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Metal fabricator,20.89,timesheet,4.0,Interior outfitter
+410,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,TBE,20.89,timesheet,4.0,Interior outfitter
+411,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Facade/Glass builder,20.89,timesheet,4.0,Interior outfitter
+412,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Roofer,20.89,timesheet,4.0,Interior outfitter
+413,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Shell/Core company,0.0,timesheet,4.0,Interior outfitter
+414,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Water/Plumbing fitter,20.89,timesheet,4.0,Interior outfitter
+415,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Painter/Plasterer,20.89,timesheet,4.0,Interior outfitter
+416,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Electrician,20.89,timesheet,4.0,Interior outfitter
+417,2017-05-22 00:00:00,2982,"Reinigung der Bodenfläche im EG-Besprechungsraum 
+und Teeküche von Müll und Restmaterial für die Verlegung von Hohlraumboden",building1,188.0,Interior outfitter,20.89,timesheet,4.0,Interior outfitter
+418,2017-05-17 00:00:00,7368,"Montage von Vorsatzschalen im Bereich BG1 
+UG/Aufzugsschacht",building1,438.2,Building-owner,0.0,timesheet,7.0,Interior outfitter
+419,2017-05-16 00:00:00,7443,"Öffnen der Vorsatzschalen und Fassadenwände 
+für Änderung sowie zusätzliche Einbringung von Unterkonstruktion
+2.OG - 5.OG BG1 Bereich Brandschutzschiebetor",building1,1036.92,other,518.46,timesheet,21.0,Interior outfitter
+420,2017-05-16 00:00:00,7443,"Öffnen der Vorsatzschalen und Fassadenwände 
+für Änderung sowie zusätzliche Einbringung von Unterkonstruktion
+2.OG - 5.OG BG1 Bereich Brandschutzschiebetor",building1,1036.92,Metal fabricator,518.46,timesheet,21.0,Interior outfitter
+421,2017-05-13 00:00:00,7472,"Öffnen der bereits geschlossen GK-Trennwand im
+ bereich Flur zu WC für den Umbau Leitungen
+4.OG WG",building3,0.0,Water/Plumbing fitter,70.5,timesheet,1.5,Interior outfitter
+422,2017-07-18 00:00:00,4197,"Schließen und Verspachteln der eigenständig durch
+ ELT geöffnete GK-lochdecken im bereich Flur F90 Wand  zu TRH
+1.OG-6.OG BG1",building1,567.0,Electrician,567.0,timesheet,11.0,Interior outfitter
+423,2017-07-08 00:00:00,4487,"Öffnen und Änderung der Rohrabstände, 
+neu verschließen und spachteln der Schachtwand im 6.OG BG1",building1,141.0,TBE,141.0,timesheet,3.0,Interior outfitter
+424,2017-06-18 00:00:00,6575,"Neu anbinden und verschließen der Vorsatzschalen 
+im Bereich der Außenfassade/Brandschutzschiebetore
+2.OG - 5.OG",building1,2600.0,Metal fabricator,2600.0,timesheet,50.0,Interior outfitter
+425,2017-06-18 00:00:00,5436,"Öffnen und Umbau der bereits gebauten 
+GK-Trennwände
+ für den Einbau von Abluft- bzw. Schattenfugen 
+1.OG - 3.OG",building1,2500.02,TBE,2500.02,timesheet,51.0,Interior outfitter
+426,2017-04-18 00:00:00,6077,"Verbreiterung der Installationswände von 0,20cm auf 
+0,30cm im Bereich Eingang zu Küche
+ auf Grund von Maßtoleranzen zur Haustechnik
+1.OG - 3.OG WGB",building3,738.0,other,369.0,timesheet,14.0,Interior outfitter
+427,2017-04-18 00:00:00,6077,"Verbreiterung der Installationswände von 0,20cm auf 
+0,30cm im Bereich Eingang zu Küche
+ auf Grund von Maßtoleranzen zur Haustechnik
+1.OG - 3.OG WGB",building3,738.0,TBE,369.0,timesheet,14.0,Interior outfitter
+428,2017-06-21 00:00:00,7354,"Umbau der Leuchtenausschnitte im Lochdeckenbereich 
+auf Grund von Maßtoleranzen BG1 1.- 6.OG ",building1,19125.21,TBE,9562.6,timesheet,377.0,Interior outfitter
+429,2017-06-21 00:00:00,7354,"Umbau der Leuchtenausschnitte im Lochdeckenbereich 
+auf Grund von Maßtoleranzen BG1 1.- 6.OG ",building1,19125.21,Electrician,9562.6,timesheet,377.0,Interior outfitter
+430,2017-03-05 00:00:00,6737,Aufdopplung  der Betonwand auf Grund fehlender Leerrohre für ELT-Kabel,building1,379.0,Shell/Core company,379.0,timesheet,7.0,Interior outfitter
+431,2017-03-25 00:00:00,7179,"*BG1: Schließen vorspachteln von Fehlbohrungen
+ in GK-Trennwänden und
+Decken-Holräumen.",building1,429.0,Electrician,429.0,timesheet,9.0,Interior outfitter
+432,2017-02-27 00:00:00,3944,"Demontage der einseitig Beplankten GK Trennwände  auf Grund von Änderung von 100 auf 125mm, Aufdopplung der WC Wände mit GK-Streifen",building1,2015.9,other,1007.95,timesheet,33.5,Interior outfitter
+433,2017-02-27 00:00:00,3944,"Demontage der einseitig Beplankten GK Trennwände  auf Grund von Änderung von 100 auf 125mm, Aufdopplung der WC Wände mit GK-Streifen",building1,2015.9,TBE,1007.95,timesheet,33.5,Interior outfitter
+434,2017-03-06 00:00:00,1455,"*EG: Rückbau der Bautür und Holzverkleidung für
+ das Einbringung der Hubtisch, sowie 
+anschließend neu verschließen ",building1,188.0,Building-owner,0.0,timesheet,4.0,Interior outfitter
+435,2017-02-25 00:00:00,9890,Öffnen der Gk-Lochdecken und des angrenzenden F90 Schacht für die Anbringung der Klimageräte ,building1,684.5,TBE,684.5,timesheet,13.5,Interior outfitter
+436,2017-02-25 00:00:00,4336,"*Öffnen und nach montage einer Rohrleitung + neue anarbeiten und Spachteln der
+Lochdecken Fettabscheider/ Achse H",building1,411.33,Tenant,411.33,timesheet,7.0,Interior outfitter
+437,2017-02-18 00:00:00,4241,Demontage der Gewebefolien und Holzunterkonstruktion im Bereich der Einbringöffnungen 1.- 6OG für den Einbau der Fassade,building1,235.0,Building-owner,0.0,timesheet,5.0,Interior outfitter
+438,2017-03-13 00:00:00,8675,"*BG1: Schließen von Fehlbohrungen in Deckenhohlraum-Flurbereich 
+und in den Wandflächen",building1,1575.63,Electrician,1575.63,timesheet,33.0,Interior outfitter
+439,2017-02-18 00:00:00,5970,*BG1: Vergrößern (der durch Haustechnik angegebenen Öffnungensmaße für BSK) in den F90 Trennwände Achse I,building1,1128.0,TBE,1128.0,timesheet,24.0,Interior outfitter
+440,2017-01-25 00:00:00,6487,Änderung der Unterkonstruktion für WC Vorsatzschalen in den WC-Anlagen Achse X1-X2 laut Planänderung vom 12.12.2018,building1,282.0,Not_clear,0.0,timesheet,6.0,Interior outfitter
+441,2017-01-07 00:00:00,2931,Verschließ einer Öffnung in Rohbetondecke,building1,104.0,Building-owner,0.0,timesheet,2.0,Interior outfitter
+442,2016-12-19 00:00:00,6475,"Änderung der Unterkonstruktion in allen WC Bereichen BG1  1. - 5.OG auf grund 
+von Anpassung HLS-Pläne/Arch.-Pläne",building1,719.66,other,390.66,timesheet,14.0,Interior outfitter
+443,2016-12-19 00:00:00,6475,"Änderung der Unterkonstruktion in allen WC Bereichen BG1  1. - 5.OG auf grund 
+von Anpassung HLS-Pläne/Arch.-Pläne",building1,719.66,TBE,390.66,timesheet,14.0,Interior outfitter
+444,2016-04-12 00:00:00,5602,"Rückbau von Unterkonstruktion für Schacht- und 
+Install.Wände für den Einbau von Lüftungskanälen und fehlender Isolierung",building2,188.0,TBE,72.94,timesheet,4.0,Interior outfitter
+445,2016-04-12 00:00:00,5602,"Rückbau von Unterkonstruktion für Schacht- und 
+Install.Wände für den Einbau von Lüftungskanälen und fehlender Isolierung",building1,188.0,TBE,115.06,timesheet,4.0,Interior outfitter
+446,2016-09-11 00:00:00,3845,"Montage einer Holzkonstruktion und abhängen
+ von gewebefolien in Bereich 
+der Einbringöffnungen als Wetterschutz. ",building1,1856.0,Building-owner,0.0,timesheet,33.0,Interior outfitter
+447,2017-07-03 00:00:00,8214,Verschließen von Bauseitshergestellt öffnungen in Hohlraumboden (Suchbohrungen der ELT Firma),building1,1143.5,Electrician,1143.5,timesheet,20.5,Interior outfitter
+448,2017-04-03 00:00:00,5596,"Nachträgliches Rückbau und neubau von Hohlraumboden für die Umverlegung von Elektro -Leitungen- im Boden
+1.OG Datenkabel vom Schacht T4 zum IT Raum",building1,473.0,Electrician,473.0,timesheet,9.0,Interior outfitter
+449,2017-02-11 00:00:00,3249,"*BT1: Nachträgliches Rückbau + Neubau von hohlraumboden für nachträgliche Kernbohrungen 
+für Lüftungsleitung auf Anweisung der Bauleitung DGI
+Fettabscheider Achse H",building1,446.0,Tenant,446.0,timesheet,8.0,Interior outfitter
+450,2016-08-11 00:00:00,7503,"Mehraufwand zur Montage Holhlraumboden. 
+Anpassung der Platten an Kälteleitungen und Abwasserrohre",building1,550.0,other,275.0,timesheet,10.0,Interior outfitter
+451,2016-08-11 00:00:00,7503,"Mehraufwand zur Montage Holhlraumboden. 
+Anpassung der Platten an Kälteleitungen und Abwasserrohre",building1,550.0,TBE,275.0,timesheet,10.0,Interior outfitter
+452,2017-01-25 00:00:00,4023,Ertüchtigung Bransperre,building1,24465.24,Building-owner,0.0,additional work agreement,,Facade/Glass builder
+453,2017-04-26 00:00:00,2466,Entfernung Dachpappe für Montage PR Fassade EG,building1,159.0,Building-owner,0.0,timesheet,3.0,Facade/Glass builder
+454,2017-07-01 00:00:00,2622,Einbau/ Wiedermontage Bautür inkl. Holzverschlag,building1,424.0,Building-owner,0.0,timesheet,8.0,Facade/Glass builder
+455,2017-06-28 00:00:00,6948,Demontage Bauteile inkl. Holzverschlag für Eingangstür Sü Fassade EG ,building1,212.0,Building-owner,0.0,timesheet,4.0,Facade/Glass builder
+456,2017-01-16 00:00:00,7075,Beräumung EG Fläche zur Montage PF Fassade ,building1,927.5,Building-owner,0.0,timesheet,17.5,Facade/Glass builder
+458,,8060,"Treppenturm, vorgebaut, Gebrauchsüberlassung
+",,4137.12,Facade/Glass builder,747.63,invoice,,Shell/Core company
+459,,2326,"Fußgängertunnel, gebrausüberlassung
+
+",,3892.4028,Facade/Glass builder,931.65,invoice,,Shell/Core company
+460,,4124,Vorhaltung Gerüst Unterdecken,building1,218.88,Facade/Glass builder,218.88,other,,Scaffold-builder
+461,,3843,"Verlängerung der Vorhaltung zu Pos.01.001:
+Gitterträger als vertikale Aussteifung des Gerüstes im Attikabereich 6.OG",building1,1160.0,Facade/Glass builder,709.92,invoice,,Scaffold-builder
+462,2017-06-25 00:00:00,7911,Fassadengerüst Vorzeitig Demontieren Fluchttüren,building1,684.25,Facade/Glass builder,684.25,additional work agreement,,Scaffold-builder
+463,2017-06-25 00:00:00,7911,Fassadengerüst Vorzeitig Demontieren VSS für Innenausbau,building2,1410.15,Facade/Glass builder,1410.15,additional work agreement,,Scaffold-builder
+464,,5412,"Einzelgerüst mit Leitergang Achse X1/K-L als 
+Austockung des vorhandenen Gerüstes von 20m auf 26m mit zusätzlichen Gerüstverankerungen und vertikaler Aussteifung mittel Gitterträger. ",building2,1430.0,Facade/Glass builder,554.84,invoice,1.0,Scaffold-builder
+465,,5412,"Einzelgerüst mit Leitergang Achse X1/K-L als 
+Austockung des vorhandenen Gerüstes von 20m auf 26m mit zusätzlichen Gerüstverankerungen und vertikaler Aussteifung mittel Gitterträger. ",building1,1430.0,Facade/Glass builder,875.16,invoice,1.0,Scaffold-builder
+466,2017-06-24 00:00:00,8225,Aufrüsten Fassadengerüst Brandschotts,building1,875.16,Facade/Glass builder,875.16,additional work agreement,,Scaffold-builder
+467,2017-06-24 00:00:00,8225,Aufrüsten Fassadengerüst Brandschotts,building2,876.16,Facade/Glass builder,554.84,additional work agreement,,Scaffold-builder
+468,,3843,"Verlängerung der Vorhaltung zu Pos.01.001:
+Gitterträger als vertikale Aussteifung des Gerüstes im Attikabereich 6.OG",building2,1160.0,Facade/Glass builder,450.08,invoice,,Scaffold-builder
+469,,5688,Verkängerung der Vorhaltung zu Pos. NA06-008:Passantenschutztunnel Achse Y1 X1 als vorgestellte Konstruktion,building1,356.4,Facade/Glass builder,356.4,invoice,,Scaffold-builder
+470,,7684,"Verlängerung der Vorhaltung zu Pos. NA07-005:
+Bautenschutzmatte auf Dachfläche montieren.",building3,37.8,Building-owner,0.0,invoice,,Scaffold-builder
+471,2017-08-30 00:00:00,3669,"gem. PTC:  Neuinstallation  RBG, 30 h",BE,1050.0,Water/Plumbing fitter,1050.0,timesheet,,Electrician
+472,2017-04-03 00:00:00,5586,Brücken für Fassadengerüst Versorger,building1,672.0,Facade/Glass builder,672.0,additional work agreement,,Scaffold-builder
+473,,6043,"Verlängerung der Vorhaltung zu Pos.01.006:
+Gerüstaufzug als Lastenaufzug 
+",building2,1840.0,Facade/Glass builder,713.92,invoice,,Scaffold-builder
+474,,6043,"Verlängerung der Vorhaltung zu Pos.01.006:
+Gerüstaufzug als Lastenaufzug 
+",building1,1840.0,Facade/Glass builder,1126.08,invoice,,Scaffold-builder
+475,,3678,Vorhaltung aus Gerüst für Unterdecken,building1,31.68,Facade/Glass builder,31.68,other,,Scaffold-builder
+476,,2437,Verlängerung der Vorhaltung zu Pos.NA01-03: Gerüstabfang für Stemm- und Schachtarbeiten Achse 1/G (WGB) ,building3,420.0,Facade/Glass builder,420.0,invoice,,Scaffold-builder
+477,,4023,"Wiederaufbau des Gerüstes Südseite, da Leistung zu beginn Aussenanlage nicht Fertiggestellt wurde. Demontage Gerüst 22.07.2019",building2,1140.0,Facade/Glass builder,1140.0,other,1.0,Scaffold-builder
+478,,4484,Vorhaltung Abfangung: ,building1,420.0,Facade/Glass builder,420.0,invoice,,Scaffold-builder
+479,,6555,"Verlängerung der Vorhaltung zu Pos.NA03-001:
+WGB Linienstr. Achse 1/5 Ersatzkonstruktion für Auflagerfeld mit Diagonalverstrebung und horizontalem Rohrkupplungs-Verband.",building3,336.3,Facade/Glass builder,336.3,invoice,,Scaffold-builder
+480,2017-06-05 00:00:00,9825,"gem. PTC:  Mehraufwand  Installation, 16 h",building3,560.0,Water/Plumbing fitter,560.0,timesheet,,Electrician
+481,2017-09-20 00:00:00,6948,Umbau der Schutzgeländer im Müllhof,building2,120.0,Building-owner,0.0,timesheet,3.0,Scaffold-builder
+482,2017-08-31 00:00:00,7075,Passantenschutztunnel umgebaut,building1,200.0,Building-owner,0.0,timesheet,5.0,Scaffold-builder
+483,2017-11-05 00:00:00,1286,"Abbruch Estrich, da Hauke Runge nicht die Heizschleifen fertiggestellt hatte",building1,,Water/Plumbing fitter,0.0,additional cost agreement,,Interior outfitter
+484,2017-12-03 00:00:00,1286,"Estrichleger musste mehrer Stunden Hauke Runge warten, da hier die Heizschleifen nicht mit Wasser befüllt waren",building3,,Water/Plumbing fitter,0.0,additional cost agreement,,Interior outfitter
+485,2018-02-28 00:00:00,1286,Konvektoren und Rinnen,building1,,Water/Plumbing fitter,0.0,additional cost agreement,,Interior outfitter
+487,2018-01-15 00:00:00,1855,"Schalldämpfer fehlerhaft 4-6.OG, Öffnungen vergrößern, siehe ST zettel 112198",building1,94.0,TBE,94.0,timesheet,2.0,Interior outfitter
+488,2017-10-21 00:00:00,8047,Beräumung von Restmaterial im BT3 / EG  Gewerbe für das Stellen von TB Wändne und Vorsatzschale ,building3,282.0,TBE,70.5,timesheet,6.0,Interior outfitter
+489,2017-10-21 00:00:00,8047,Beräumung von Restmaterial im BT3 / EG  Gewerbe für das Stellen von TB Wändne und Vorsatzschale ,building3,282.0,Facade/Glass builder,70.5,timesheet,6.0,Interior outfitter
+490,2017-10-21 00:00:00,8047,Beräumung von Restmaterial im BT3 / EG  Gewerbe für das Stellen von TB Wändne und Vorsatzschale ,building3,282.0,Roofer,70.5,timesheet,6.0,Interior outfitter
+491,2017-10-21 00:00:00,8047,Beräumung von Restmaterial im BT3 / EG  Gewerbe für das Stellen von TB Wändne und Vorsatzschale ,building3,282.0,Water/Plumbing fitter,70.5,timesheet,6.0,Interior outfitter
+492,2017-10-22 00:00:00,8047,Beräumung von Restmaterial im BT3 / EG  Gewerbe für das Stellen von TB Wändne und Vorsatzschale ,building3,282.0,Water/Plumbing fitter,70.5,timesheet,6.0,Interior outfitter
+493,2017-10-25 00:00:00,8924,Montage von Estrichabstellungen an 44 lfm im Bereich Fassadenanschluss auf Grund von fehlenden Bodenkonvetoren,building1,1692.0,Water/Plumbing fitter,846.0,timesheet,36.0,Interior outfitter
+494,2017-10-25 00:00:00,8924,Montage von Estrichabstellungen an 44 lfm im Bereich Fassadenanschluss auf Grund von fehlenden Bodenkonvetoren,building1,1692.0,TBE,846.0,timesheet,36.0,Interior outfitter
+495,2017-05-11 00:00:00,8634,Montage eines zusätzlichen schrägen Türsturztes im Bereich Durchganstür zur TRH Keller im BG2 ,building2,255.0,Building-owner,,timesheet,5.0,Interior outfitter
+496,2017-11-04 00:00:00,3564,Herstellen von 2 Estrichabstellungen für die fehlenden Rinnen ,building1,188.0,Water/Plumbing fitter,188.0,timesheet,4.0,Interior outfitter
+497,2017-08-11 00:00:00,4652,Umbau Fenster un Türöffnungen nach Planänderung im Bereich Gastronomie,building1,846.0,Tenant,846.0,timesheet,18.0,Interior outfitter
+498,2017-11-19 00:00:00,1826,"Abdecken der Bücherregale und Bodenflächen, Öffnen der GK Decken, wgn Mangelbeseitigung Schalldämpfer ",building1,1598.0,TBE,1598.0,timesheet,34.0,Interior outfitter
+499,2017-03-11,3482,Montage einer Vorsatzschale in der in der Unterfahrt ,building1,396.0,Building-owner,,timesheet,8.0,Interior outfitter
+500,2017-03-11,3482,Montage einer Vorsatzschale in der in der Unterfahrt ,building2,396.0,Building-owner,,timesheet,8.0,Interior outfitter
+501,2017-09-12 00:00:00,8774,Nochmaliger Transport+Einrichten des Arbeitsplatzes im Bereich Küchenzeile 4.OG WG nochmaliger Materialtransport Gerüstmaterial,building3,235.0,Building-owner,,timesheet,5.0,Interior outfitter
+502,2017-09-12 00:00:00,2430,"vervollständigen der GK Wand Türschott nach Änderung der Türanlage, Schutz und Abdeckarbeiten",building3,141.0,Building-owner,,timesheet,3.0,Interior outfitter
+503,2017-12-02 00:00:00,2646,Demontage und Beräumung der Estrichabstellungen (für fehlende Konvetroen im Fassadenbereich) Im EG BG1 Gastro,building1,564.0,Water/Plumbing fitter,282.0,timesheet,12.0,Interior outfitter
+504,2017-12-02 00:00:00,2646,Demontage und Beräumung der Estrichabstellungen (für fehlende Konvetroen im Fassadenbereich) Im EG BG1 Gastro,building1,564.0,TBE,282.0,timesheet,12.0,Interior outfitter
+505,2017-12-06 00:00:00,7559,Montage einer Estrichabstellung für Türaus/ Einbau WG Gewerbe,building3,94.0,Building-owner,,timesheet,2.0,Interior outfitter
+506,2018-01-10 00:00:00,8248,Demontage GK Decke (enthalten in BAPlanung) von Innenarchitekt nicht gewünscht,building1,188.0,Tenant,188.0,timesheet,4.0,Interior outfitter
+507,2018-01-10 00:00:00,2120,Nochmaliges Anpassen der Sturzes und der Durchreiche,building1,772.0,Tenant,772.0,timesheet,16.0,Interior outfitter
+508,2018-01-13 00:00:00,4999,"Änderung, der von der Haustechnik angebebenen Durchbruche im Bereich der Küchenwand zum Flur Garderrobe. Umbau der Unterkonstruktion und GK Laibung sowie nochmaliges einrüsten",building1,282.0,Tenant,282.0,timesheet,6.0,Interior outfitter
+509,2018-01-14 00:00:00,7722,"Aussagen, Grundieren und mit Zement-Fugenmörtel verfugen der Fuge zwischen Estrich und Abstellwinkel und Rohboden. Aufzugsschächte Bg1 2 Stl und BG2 1 Stl vom Eg 6.OG ",building1,799.0,Building-owner,,timesheet,17.0,Interior outfitter
+510,2017-11-19 00:00:00,5021,Umlagerung von trockenbaumaterialien und Türzargen und Türblättern EG BG2 in UG BG2,building2,752.0,Building-owner,,timesheet,16.0,Interior outfitter
+511,2017-12-06 00:00:00,8248,Umlagern der Materialien für die Montage der Fussbodenheizung,building2,564.0,Water/Plumbing fitter,282.0,timesheet,12.0,Interior outfitter
+512,2017-12-06 00:00:00,8248,Umlagern der Materialien für die Montage der Fussbodenheizung,building2,564.0,TBE,282.0,timesheet,12.0,Interior outfitter
+513,2018-01-23 00:00:00,3765,Demontage und Wiedermontage der Sockelleisten im Bereich der Balkone für die Anbrungung der Leibungsverkleidung,building3,987.0,Building-owner,,timesheet,21.0,Interior outfitter
+514,2018-01-22 00:00:00,3598,Erstellen einer Vorabbeplankung für die Vorsatzschale im Waschtischbereich,building1,141.0,Building-owner,,timesheet,3.0,Interior outfitter
+515,2018-01-30 00:00:00,3454,Einbau und Verspachtelung einer zusätzlichen Revi-Öffnung im WC,building3,141.0,TBE,141.0,timesheet,3.0,Interior outfitter
+516,2018-11-02 00:00:00,7292,Montage einer zus. GK-Vorsatzschale im Bereich des Heizkreisverteilers und E-Vert.,building3,473.0,TBE,473.0,timesheet,9.0,Interior outfitter
+517,2018-02-21 00:00:00,7550,Einbau und Verspachtelung einer zusätzlichen Revi-Öffnung in GK-Vorsatzschale,building2,141.0,TBE,141.0,timesheet,3.0,Interior outfitter
+518,2017-10-11 00:00:00,2223,Ausbesserung nach E-Installationen,building2,156.6,Electrician,156.6,timesheet,3.0,Painter/Plasterer
+519,2017-10-16 00:00:00,3504,An fertigen Wandflächen Anstrich im Bereich Taster ausbessern,building2,561.15,Electrician,561.15,timesheet,10.75,Painter/Plasterer
+520,2017-10-16 00:00:00,9260,Ausbesserung nach E-Installationen,building2,313.2,Electrician,313.2,timesheet,6.0,Painter/Plasterer
+521,2017-10-10 00:00:00,2245,Ausbesserung nach E-Installationen,building2,104.4,Electrician,104.4,timesheet,2.0,Painter/Plasterer
+522,2017-08-10 00:00:00,7624,Deckenlampen zusätzlich mit Klebebändern schutzen und wieder entfernen,building1,208.8,Building-owner,,timesheet,4.0,Painter/Plasterer
+523,2017-11-29 00:00:00,6173,"Verputzarbeiten, sichtbare Öffnungen an Steckdosen und Tastern spachteln, und schleifen",building3,300.15,Electrician,300.15,timesheet,5.75,Painter/Plasterer
+524,2017-06-12 00:00:00,5040,Kleine beschädigungen der fertig gestrichenen Wände infolge E-Installationen,building3,783.0,Electrician,783.0,timesheet,15.0,Painter/Plasterer
+525,2017-07-25 00:00:00,9140,"Auf Grund von zu höher Leitungsführung, durch die bereits montierte GK Laibung in F90 Wand müssen diese nochmals umgebaut werden",building1,282.0,Electrician,282.0,timesheet,6.0,Interior outfitter
+526,2017-09-10 00:00:00,9412,"gem. PTC:  Neuinstallation  RBG, 16 h",BE,560.0,Water/Plumbing fitter,560.0,timesheet,,Electrician
+527,2017-09-10 00:00:00,4673,"gem. PTC:  Neuinstallation  RBG, 13,5 h",BE,472.5,Water/Plumbing fitter,472.5,timesheet,,Electrician
+528,2018-02-26 00:00:00,9736,"Nachschneiden, ausspachteln, neu anarbeiten des Teppiches im BG1 1-3.OG, Bodentanks wurden zu klein bestellt, kleiner als in Bodenspiegelplanung eingebaut.",building1,802.0,TBE,802.0,timesheet,16.0,Interior outfitter
+529,2017-06-12 00:00:00,5040,Randdämstreifen entfernen und entsorgen,building2,130.5,Building-owner,,timesheet,3.0,Painter/Plasterer
+530,2017-02-28 00:00:00,9689,Mehraufwand Umverlegung Installation,building1,254.88,Shell/Core company,254.88,timesheet,4.0,Electrician
+531,2017-04-25 00:00:00,6631,Mehraufwand Freiegung  überbetonierte Bereiche,building1,63.72,Shell/Core company,63.72,timesheet,1.0,Electrician
+532,2017-04-25 00:00:00,6631,Mehraufwand Freiegung  überbetonierte Bereiche,building2,31.86,Shell/Core company,31.86,timesheet,0.5,Electrician
+533,2017-05-24 00:00:00,6955,Mehraufwand Umverlegung Installation,building2,191.16,Shell/Core company,191.16,timesheet,3.0,Electrician
+534,,1286,Abdeckung Pumpemsumpf,building1,1166.09,Shell/Core company,1166.09,additional work agreement,,Interior outfitter
+535,2018-05-11 00:00:00,5350,"Fehlerhafte Türabmessungen, wegen  Anschlusshöhen Gehwege",building3,230.0,Architect,76.67,contract,,Surveyor
+536,2018-05-11 00:00:00,5350,"Fehlerhafte Türabmessungen, wegen  Anschlusshöhen Gehwege",building3,,Landscaper,76.67,contract,,Surveyor
+537,2018-05-11 00:00:00,5350,"Fehlerhafte Türabmessungen, wegen  Anschlusshöhen Gehwege",building3,,Facade/Glass builder,76.67,contract,,Surveyor
+538,2017-07-01 00:00:00,3666,Umverlegen ELT Anschlüsse Brandschutztore,building1,127.44,Metal fabricator,127.44,timesheet,2.0,Electrician
+539,2018-01-14 00:00:00,8694,Behebung  Nutzungsschäden,all,4914.9,Facade/Glass builder,819.15,invoice,,Shell/Core company
+540,2018-01-14 00:00:00,8694,Behebung  Nutzungsschäden,all,4914.9,Interior outfitter,819.15,invoice,,Shell/Core company
+541,2018-01-14 00:00:00,8694,Behebung  Nutzungsschäden,all,4914.9,Water/Plumbing fitter,819.15,invoice,,Shell/Core company
+542,2018-01-14 00:00:00,8694,Behebung  Nutzungsschäden,all,4914.9,Electrician,819.15,invoice,,Shell/Core company
+543,2018-01-14 00:00:00,8694,Behebung  Nutzungsschäden,all,4914.9,TBE,819.15,invoice,,Shell/Core company
+544,2018-01-14 00:00:00,8694,Behebung  Nutzungsschäden,all,4914.9,Shell/Core company,819.15,invoice,,Shell/Core company
+545,,9651,"Verlängerung der Vorhaltung zu Pos. NA06-005:
+Passantenschutzdach Achse X1/Y1",building1,294.8,Facade/Glass builder,294.8,invoice,,Scaffold-builder
+546,,5233,"Verlängerung der Vorhaltung zu Pos. NA06-001
+Gerüstabfangung für Stemm-und Schachtarbeiten BG1 Süd/ Achse X3/i",building1,168.0,Facade/Glass builder,168.0,invoice,,Scaffold-builder
+547,2017-06-03 00:00:00,4810,"gem. PTC:  Aufspitzen  Fussboden, 2 h",building3,70.0,Water/Plumbing fitter,70.0,timesheet,2.0,Electrician
+548,,4673,"Verlängerung der Vorhaltung zu Pos.NA02-001: Standgerüst flächenorientiert, einschl. Leitergang sowie Anpassung an Treppenläufe und Podeste.",building1,27.0,Facade/Glass builder,27.0,invoice,,Scaffold-builder
+549,2017-01-08 00:00:00,3305,"an- und abfahrt + Baustelleneinrichtung .
+UG-Profile Scahttenfuge geschwärzt",building1,0.0,Building-owner,0.0,timesheet,,Painter/Plasterer
